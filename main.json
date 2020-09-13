@@ -1,0 +1,22 @@
+{
+  "name": "Viraz Malhotra Portfolio",
+  "authors": [
+    "Viraz Malhotra"
+  ],
+  "description": "My Portfolio",
+  "main": "main.html",
+  "keywords": [
+    "Font",
+    "awesome",
+    "particle.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://viraj124.github.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
